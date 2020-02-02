@@ -5,9 +5,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "monospace:pixelsize=16:antialias=true:autohint=true";
+static char *font = "Noto Sans Mono:pixelsize=16:antialias=true:autohint=true";
 static char *font2[] = {
-	"Inconsolata For Powerline:pixelsize=16:antialias=true:autohint=true"
+	"monospace:pixelsize=16:antialias=true:autohint=true",
 };
 static int borderpx = 2;
 
